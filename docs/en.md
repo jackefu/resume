@@ -35,6 +35,27 @@
 
 ## work experience
 
+### ◯2022/8 - 2023/11 : 新規Wordpressサイト構築
+
+#### Number of team members
+1 people
+
+#### Job Description
+Developed a new music distribution site in Wordpress.<br>
+We implemented a mechanism to distribute & download audio data such as mp4 by implementing animation with JavaScript.
+
+#### Development Processes Involved
+Detailed design, design, implementation, testing
+
+#### Skills and tools used.
+- PHP
+- Git
+- JavaScript
+- HTML/CSS
+- Wordpress
+
+---
+
 ### ◯2023/10 - 2023/11 : Development of new web applications
 
 #### Number of team members
