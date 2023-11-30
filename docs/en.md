@@ -35,7 +35,7 @@
 
 ## work experience
 
-### ◯2022/8 - 2023/11 : 新規Wordpressサイト構築
+### ◯2022/8 - 2023/11 : Building a new Wordpress site
 
 #### Number of team members
 1 people
